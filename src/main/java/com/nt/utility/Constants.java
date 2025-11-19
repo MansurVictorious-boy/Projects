@@ -1,0 +1,8 @@
+package com.nt.utility;
+
+public class Constants {
+	public  static final String   SUCCESS="suceess";
+	public static final String FAILURE="failure";
+	public static final String FAILED="failed";
+
+}
