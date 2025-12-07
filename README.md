@@ -85,8 +85,6 @@ DevOps & CI/CD
 Containerization: Docker 
 
 
-Orchestration/Deployment: AWS EC2, Kubernetes 
-
 
 
 CI/CD Pipeline: Jenkins 
