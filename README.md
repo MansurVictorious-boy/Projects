@@ -1,11 +1,8 @@
-Here is a professional README file structure based on the provided project documentation.
-
 Online Bookstore – Spring Boot & Microservices
 This project is a comprehensive Online Bookstore platform built using Spring Boot and a Microservices architecture. The system is designed to allow users to securely register, browse a book catalog, manage their shopping cart, place orders, and leave reviews.
 🏗️ Architecture Overview
 The application is decomposed into independent microservices that communicate via Feign Client and are managed through a centralized API Gateway and Eureka Discovery Server.
 Here is a professional README file structure based on the provided project documentation.
-
 Online Bookstore – Spring Boot & Microservices
 This project is a comprehensive Online Bookstore platform built using Spring Boot and a Microservices architecture. The system is designed to allow users to securely register, browse a book catalog, manage their shopping cart, place orders, and leave reviews.
 Microservices
